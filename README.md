@@ -36,7 +36,7 @@ This project was put together using create-react-app (CRA). You will not need to
 - [ ] Push commits: `git push origin <firstName-lastName>`.
 
 ### Task 2: MVP
-
+ /* start here */
 **Planning**
 
 - [ ] If you want, this is the time to make a simple design spec (look up ["simple wireframes"](https://www.google.com/search?q=simple+wireframes) to find resources & examples). **A pen & paper sketch (or outline) is often the fastest way to start your planning.**
